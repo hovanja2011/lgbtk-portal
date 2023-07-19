@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru'
+title = 'Тестовый сайт'
+theme = 'lightbi-hugo'
+defaultContentLanguage = 'ru'
+enableEmoji = true 
