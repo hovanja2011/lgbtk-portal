@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hovanja2011.github.io/lgbtk-portal/'
 languageCode = 'ru'
 title = 'Тестовый сайт'
 theme = 'lightbi-hugo'
