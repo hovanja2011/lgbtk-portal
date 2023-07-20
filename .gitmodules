@@ -1,0 +1,4 @@
+[submodule "hovanja2011.github.io"]
+	path = hovanja2011.github.io
+	url = https://github.com/hovanja2011/hovanja2011.github.io.git
+	branch = master
